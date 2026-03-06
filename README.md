@@ -20,6 +20,7 @@ Interactive map displaying global earthquake activity using **Leaflet.js**.
 <a href="https://cbilinski101.github.io/leaflet-challenge/">
 <img src="Images/earthquake_1.png" width="100%">
 <img src="Images/earthquake_2.png" width="100%">
+<img src="Images/earthquake_3.png" width="100%">
 </a>
 
 </td>
@@ -31,7 +32,7 @@ Interactive map displaying global earthquake activity using **Leaflet.js**.
 Interactive dashboard exploring patterns and trends in data.
 
 <a href="https://cbilinski101.github.io/Project-3/">
-<img src="images/project3-dashboard.png" width="100%">
+<img src="Images/project3.png" width="100%">
 </a>
 
 </td>
