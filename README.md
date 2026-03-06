@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio. Here you will find projects demonstrating skills
 Interactive map displaying global earthquake activity using **Leaflet.js**.
 
 <a href="https://cbilinski101.github.io/leaflet-challenge/">
-<img src="images/earthquake_1.png" width="100%">
+<img src="Images/earthquake_1.png" width="100%">
 </a>
 
 </td>
