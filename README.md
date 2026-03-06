@@ -20,7 +20,6 @@ Interactive map displaying global earthquake activity using **Leaflet.js**.
 <a href="https://cbilinski101.github.io/leaflet-challenge/">
 <img src="Images/earthquake_1.png" width="100%">
 <img src="Images/earthquake_2.png" width="100%">
-<img src="Images/earthquake_3.png" width="100%">
 </a>
 
 </td>
