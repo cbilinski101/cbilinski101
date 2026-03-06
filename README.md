@@ -47,10 +47,10 @@ Interactive dashboard exploring patterns and trends in data.
 Interactive dashboard exploring bacteria cultures using **Plotly.js**.
 
 <a href="https://cbilinski101.github.io/belly-button-challenge/">
-<img src="Images/bbc_metadata_panel.png" width="100%">
+<img src="Images/bbc_metadata_panel.png" width="50%">
 <img src="Images/bbc_bubble_chart.png" width="100%">
 <img src="Images/bbc_bar_chart.png" width="100%">
-<img src="Images/bbc_dynamic_dropdown.png" width="100%">
+<img src="Images/bbc_dynamic_dropdown.png" width="50%">
 </a>
 
 </td>
