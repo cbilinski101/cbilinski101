@@ -1,135 +1,137 @@
-<table>
-<tr>
-<td width="220">
-
-<img src="images/profile.PNG" width="200"/>
-
-</td>
-
-<td>
-
 # 👋 Hi, I'm Christine Bilinski
 
-📊 **Data Analytics Graduate**  
-🤝 **Customer Success Professional**  
-💡 I turn messy data into clear insights people can understand.
+**Helping teams turn messy data into clear decisions.**
+
+📊 Data Analytics Graduate  
+🤝 Customer Success Professional  
+💡 I turn messy data into clear stories people can understand.
+
+Welcome to my GitHub!
+
+Think of this page like a **mini museum of projects** where I practice turning data into dashboards, maps, and insights.
+
+No coding knowledge needed — just click and explore.
 
 ---
 
-### 🔗 Connect With Me
+# 🚀 My Projects
+
+## 🌎 Earthquake Visualization Map
+
+<a href="https://github.com/cbilinski101/leaflet-challenge">
+<img src="images/earthquake_2.png" width="700">
+</a>
+
+This project shows **earthquakes around the world** on an interactive map.
+
+Built using **Leaflet.js**.
+
+👉 **Live demo**  
+https://cbilinski101.github.io/leaflet-challenge/
+
+---
+
+## 📊 Interactive Data Dashboard
+
+<a href="https://github.com/cbilinski101/Project-3">
+<img src="images/project3_dashboard.png" width="700">
+</a>
+
+A dashboard that helps explore **patterns and trends in data**.
+
+Built using **JavaScript and data visualization tools**.
+
+👉 **Live dashboard**  
+https://cbilinski101.github.io/Project-3/
+
+---
+
+## 🧫 Belly Button Biodiversity Dashboard
+
+<a href="https://github.com/cbilinski101/belly-button-challenge">
+<img src="images/bbc_bubble_chart.png" width="700">
+</a>
+
+Yes… it really is about belly buttons.
+
+Scientists studied bacteria found in belly buttons and I built a **dashboard to explore the results**.
+
+Built with **Plotly.js**.
+
+👉 **Live dashboard**  
+https://cbilinski101.github.io/belly-button-challenge/
+
+---
+
+# 🧰 Tools & Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Visualization
+![Plotly](https://img.shields.io/badge/Plotly-Dashboards-blue?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-Interactive%20Maps-green?style=for-the-badge)
+
+### Data Skills
+
+- Data Analysis  
+- Data Storytelling  
+- Dashboard Design  
+- Data Visualization  
+
+### Web
+
+- HTML  
+- CSS  
+- GitHub Pages  
+
+---
+
+# 💼 Professional Background
+
+I currently work as a **Live Services Agent at ServiceTitan**, helping customers solve problems, schedule services, and improve their experience.
+
+Before moving into analytics, I built strong skills in:
+
+✔ Customer Success  
+✔ Problem Solving  
+✔ Communication  
+✔ Data Reporting  
+
+I enjoy combining **customer insight with data analysis** to make systems work better for both businesses and people.
+
+---
+
+# 📄 Resume
+
+You can view or download my resume here:
+
+📄 **Resume**  
+https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf
+
+---
+
+# 📊 GitHub Stats
+
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbilinski101&show_icons=true)
+
+---
+
+# 🔗 Connect With Me
+
+💼 **LinkedIn**  
+https://linkedin.com/in/christine-b-19367b31b
+
+💻 **GitHub**  
+[https://github.com/cbilinski101](https://cbilinski101.github.io/)
 
 📧 **Email**  
 [cbilinski101@gmail.com](mailto:cbilinski101@gmail.com)
 
-💼 **LinkedIn**  
-https://www.linkedin.com
-
-🌐 **Portfolio Website**  
-https://cbilinski101.github.io
-
-📄 **Resume**  
-[Download Resume](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf)
-
-💻 **GitHub**  
-https://github.com/cbilinski101
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 📊 Featured Projects
+⭐ Thanks for visiting!
 
-### 🌎 Global Earthquake Visualization
-
-<a href="https://github.com/cbilinski101">
-<img src="images/earthquake_2.png" width="700">
-</a>
-
-Interactive map visualizing global earthquake activity with magnitude-scaled markers and tectonic plate overlays.
-
-**Tools Used**
-
-- JavaScript  
-- Leaflet  
-- GeoJSON  
-- Data Visualization  
-
----
-
-### 🧬 Microbiome Data Visualization
-
-<a href="https://github.com/cbilinski101">
-<img src="images/bbc_bubble_chart.png" width="700">
-</a>
-
-Bubble chart exploring bacterial cultures per sample with dynamic bubble sizing to highlight dominant species.
-
-**Tools Used**
-
-- Python  
-- Plotly  
-- Data Exploration  
-- Visualization  
-
----
-
-### ⚡ Energy Data Dashboard
-
-<a href="https://github.com/cbilinski101">
-<img src="images/project3_dashboard.png" width="700">
-</a>
-
-Interactive dashboard exploring global energy trends, renewable adoption, and energy consumption patterns.
-
-**Tools Used**
-
-- Python  
-- Data Analytics  
-- Interactive Dashboards  
-- Visualization  
-
----
-
-# 🧠 Technical Skills
-
-### Data Analysis
-
-- Python  
-- Pandas  
-- Jupyter Notebook  
-- Data Cleaning  
-- Data Visualization  
-
-### Tools
-
-- GitHub  
-- Excel  
-- Google Colab  
-- CRM Platforms  
-- Data Reporting  
-
-### Strengths
-
-- Customer Success  
-- Problem Solving  
-- Communication  
-- Process Improvement  
-- Relationship Building  
-
----
-
-# ☕ A Quick Note
-
-If you're a hiring manager visiting this page — welcome!
-
-This GitHub contains projects from my **data analytics training and hands-on work with visualization and dashboards.**
-
-I enjoy turning complicated information into insights that help teams make better decisions.
-
-And yes — sometimes that involves a lot of coffee.
-
----
-
-© Christine Bilinski
+If you made it this far, congratulations —  
+you officially know more about **belly-button bacteria dashboards** than most people on Earth.
