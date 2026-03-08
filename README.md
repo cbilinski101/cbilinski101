@@ -2,34 +2,30 @@
 <tr>
 <td width="220">
 
-<img src="images/profile.PNG" width="200">
+<img src="images/profile.PNG" width="200"/>
 
 </td>
 
 <td>
 
-# Hi, I'm Christine Bilinski 👋
+# 👋 Hi, I'm Christine Bilinski
 
 📊 **Data Analytics Graduate**  
 🤝 **Customer Success Professional**  
 💡 I turn messy data into clear insights people can understand.
-
-Sometimes that means dashboards.  
-Sometimes that means spreadsheets.  
-Sometimes it just means asking better questions.
 
 ---
 
 ### 🔗 Connect With Me
 
 📧 **Email**  
-cbilinski101@gmail.com  
+[cbilinski101@gmail.com](mailto:cbilinski101@gmail.com)
 
 💼 **LinkedIn**  
-https://www.linkedin.com  
+https://www.linkedin.com
 
 🌐 **Portfolio Website**  
-https://cbilinski101.github.io  
+https://cbilinski101.github.io
 
 📄 **Resume**  
 [Download Resume](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf)
@@ -43,7 +39,7 @@ https://github.com/cbilinski101
 
 ---
 
-# Featured Projects
+# 📊 Featured Projects
 
 ### 🌎 Global Earthquake Visualization
 
@@ -53,7 +49,7 @@ https://github.com/cbilinski101
 
 Interactive map visualizing global earthquake activity with magnitude-scaled markers and tectonic plate overlays.
 
-**Tools used**
+**Tools Used**
 
 - JavaScript  
 - Leaflet  
@@ -68,9 +64,9 @@ Interactive map visualizing global earthquake activity with magnitude-scaled mar
 <img src="images/bbc_bubble_chart.png" width="700">
 </a>
 
-Bubble chart exploring bacterial cultures per sample using dynamic bubble sizing to highlight dominant species.
+Bubble chart exploring bacterial cultures per sample with dynamic bubble sizing to highlight dominant species.
 
-**Tools used**
+**Tools Used**
 
 - Python  
 - Plotly  
@@ -79,24 +75,24 @@ Bubble chart exploring bacterial cultures per sample using dynamic bubble sizing
 
 ---
 
-### ⚡ Energy Analytics Dashboard
+### ⚡ Energy Data Dashboard
 
 <a href="https://github.com/cbilinski101">
 <img src="images/project3_dashboard.png" width="700">
 </a>
 
-Interactive dashboard exploring global energy trends, renewable adoption, and consumption patterns.
+Interactive dashboard exploring global energy trends, renewable adoption, and energy consumption patterns.
 
-**Tools used**
+**Tools Used**
 
 - Python  
 - Data Analytics  
 - Interactive Dashboards  
-- Data Visualization  
+- Visualization  
 
 ---
 
-# Technical Skills
+# 🧠 Technical Skills
 
 ### Data Analysis
 
@@ -124,15 +120,15 @@ Interactive dashboard exploring global energy trends, renewable adoption, and co
 
 ---
 
-# A Quick Note
+# ☕ A Quick Note
 
 If you're a hiring manager visiting this page — welcome!
 
-This GitHub is a collection of projects from my **data analytics training and hands-on work with data visualization**.
+This GitHub contains projects from my **data analytics training and hands-on work with visualization and dashboards.**
 
-I enjoy turning complicated information into clear insights that help teams make better decisions.
+I enjoy turning complicated information into insights that help teams make better decisions.
 
-And yes — sometimes that involves a lot of coffee ☕.
+And yes — sometimes that involves a lot of coffee.
 
 ---
 
