@@ -1,65 +1,41 @@
-# 👋 Hi, I'm Christine Bilinski
+<table>
+<tr>
+<td width="220">
 
-📊 Data Analytics Bootcamp Graduate  
-💡 Passionate about transforming data into clear insights through dashboards and visualizations.
+<img src="images/profile.PNG" width="200">
 
-Welcome to my GitHub portfolio. Here you will find projects demonstrating skills in **data analysis, visualization, and interactive dashboards.**
+</td>
+
+<td>
+
+# Hi, I'm Christine Bilinski 👋
+
+📊 **Data Analytics Graduate**  
+🤝 **Customer Success Professional**  
+💡 I turn messy data into clear insights people can understand.
+
+Sometimes that means dashboards.  
+Sometimes that means spreadsheets.  
+Sometimes it just means asking better questions.
 
 ---
 
-# 🚀 Portfolio Projects
+### 🔗 Connect With Me
 
-<table>
-<tr>
-<td width="50%">
+📧 **Email**  
+cbilinski101@gmail.com  
 
-### 🌎 Earthquake Visualization Map
+💼 **LinkedIn**  
+https://www.linkedin.com  
 
-Interactive map displaying global earthquake activity using **Leaflet.js**.
+🌐 **Portfolio Website**  
+https://cbilinski101.github.io  
 
-<a href="https://cbilinski101.github.io/leaflet-challenge/">
-<img src="Images/earthquake_1.png" width="100%">
-<img src="Images/earthquake_2.png" width="100%">
-</a>
+📄 **Resume**  
+[Download Resume](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf)
 
-</td>
-
-<td width="50%">
-
-### 📊 Data Dashboard (Project 3)
-
-Interactive dashboard exploring patterns and trends in data.
-
-<a href="https://cbilinski101.github.io/Project-3/">
-<img src="Images/project3_1.png" width="100%">
-<img src="Images/project3_2.png" width="100%">
-<img src="Images/project3_3.png" width="100%">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧫 Belly Button Biodiversity Dashboard
-
-Interactive dashboard exploring bacteria cultures using **Plotly.js**.
-
-<a href="https://cbilinski101.github.io/belly-button-challenge/">
-<img src="Images/bbc_metadata_panel.png" width="50%">
-<img src="Images/bbc_bubble_chart.png" width="100%">
-<img src="Images/bbc_bar_chart.png" width="100%">
-<img src="Images/bbc_dynamic_dropdown.png" width="50%">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 📈 Data Visualization Projects
-
-Additional projects exploring visualization and storytelling with data.
+💻 **GitHub**  
+https://github.com/cbilinski101
 
 </td>
 </tr>
@@ -67,62 +43,97 @@ Additional projects exploring visualization and storytelling with data.
 
 ---
 
-# 🧰 Technical Skills
+# Featured Projects
 
-### Programming Languages
-- Python
-- JavaScript
+### 🌎 Global Earthquake Visualization
 
-### Data Visualization
-- Plotly
-- Leaflet
-- Interactive dashboards
+<a href="https://github.com/cbilinski101">
+<img src="images/earthquake_2.png" width="700">
+</a>
 
-### Web Technologies
-- HTML
-- CSS
-- GitHub Pages
+Interactive map visualizing global earthquake activity with magnitude-scaled markers and tectonic plate overlays.
 
-### Data Skills
-- Data analysis
-- Data visualization
-- Dashboard design
-- Data storytelling
+**Tools used**
+
+- JavaScript  
+- Leaflet  
+- GeoJSON  
+- Data Visualization  
 
 ---
 
-# 📊 GitHub Stats
+### 🧬 Microbiome Data Visualization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbilinski101&show_icons=true)
+<a href="https://github.com/cbilinski101">
+<img src="images/bbc_bubble_chart.png" width="700">
+</a>
 
----
+Bubble chart exploring bacterial cultures per sample using dynamic bubble sizing to highlight dominant species.
 
-# 📚 Currently Learning
+**Tools used**
 
-- Advanced data visualization
-- Data storytelling
-- Dashboard design best practices
-
----
-
-# 💡 How to Explore My Projects
-
-Even if you're new to GitHub:
-
-1️⃣ Scroll to **Portfolio Projects**  
-2️⃣ Click a **project image**  
-3️⃣ The interactive project will open in your browser  
-4️⃣ Explore the map or dashboard
-
-No downloads required.
+- Python  
+- Plotly  
+- Data Exploration  
+- Visualization  
 
 ---
 
-# 🔗 Connect With Me
+### ⚡ Energy Analytics Dashboard
 
-LinkedIn  
-https://linkedin.com/in/christine-b-19367b31b
+<a href="https://github.com/cbilinski101">
+<img src="images/project3_dashboard.png" width="700">
+</a>
+
+Interactive dashboard exploring global energy trends, renewable adoption, and consumption patterns.
+
+**Tools used**
+
+- Python  
+- Data Analytics  
+- Interactive Dashboards  
+- Data Visualization  
 
 ---
 
-⭐ Thank you for visiting my GitHub!
+# Technical Skills
+
+### Data Analysis
+
+- Python  
+- Pandas  
+- Jupyter Notebook  
+- Data Cleaning  
+- Data Visualization  
+
+### Tools
+
+- GitHub  
+- Excel  
+- Google Colab  
+- CRM Platforms  
+- Data Reporting  
+
+### Strengths
+
+- Customer Success  
+- Problem Solving  
+- Communication  
+- Process Improvement  
+- Relationship Building  
+
+---
+
+# A Quick Note
+
+If you're a hiring manager visiting this page — welcome!
+
+This GitHub is a collection of projects from my **data analytics training and hands-on work with data visualization**.
+
+I enjoy turning complicated information into clear insights that help teams make better decisions.
+
+And yes — sometimes that involves a lot of coffee ☕.
+
+---
+
+© Christine Bilinski
