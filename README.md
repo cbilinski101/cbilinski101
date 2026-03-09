@@ -1,16 +1,9 @@
 # Hi, I'm Christine Bilinski
 
-I help turn messy data into clear decisions.
+I’m a data analytics graduate with a background in customer success and problem solving.  
+I enjoy working with data to uncover patterns, build dashboards, and turn complex information into insights people can actually use.
 
-Data Analytics Graduate  
-Customer Success Professional  
-
-Welcome to my GitHub.
-
-Think of this page like a **small museum of projects**.  
-Each one is something I built while learning how to turn raw data into dashboards, maps, and useful insights.
-
-No coding knowledge required — just click around and explore.
+Below are a few projects where I explored data visualization, mapping, and interactive dashboards.
 
 ---
 
@@ -21,13 +14,15 @@ No coding knowledge required — just click around and explore.
 
 <td>
 
-### Earthquake Map
+### Earthquake Visualization Map
 
 <a href="https://cbilinski101.github.io/leaflet-challenge/">
 <img src="images/earthquake_2.png">
 </a>
 
-Interactive map showing earthquakes around the world.
+An interactive map that visualizes earthquakes around the world.
+
+Built with **Leaflet.js** to display earthquake magnitude, location, and patterns in global seismic activity.
 
 Live demo  
 https://cbilinski101.github.io/leaflet-challenge/
@@ -39,15 +34,15 @@ https://github.com/cbilinski101/leaflet-challenge
 
 <td>
 
-### Data Dashboard
+### Interactive Data Dashboard
 
 <a href="https://cbilinski101.github.io/Project-3/">
 <img src="images/project3_dashboard.png">
 </a>
 
-Interactive dashboard exploring patterns and trends in data.
+A dashboard designed to explore patterns and trends through interactive charts and visualizations.
 
-Live version  
+Live dashboard  
 https://cbilinski101.github.io/Project-3/
 
 Repository  
@@ -63,11 +58,11 @@ https://github.com/cbilinski101/Project-3
 <img src="images/bbc_bubble_chart.png">
 </a>
 
-Yes… this one really is about belly buttons.
+A visualization of bacterial biodiversity found in belly buttons.
 
-A visualization of bacterial biodiversity using Plotly.js.
+The dashboard allows users to explore the dataset interactively using **Plotly.js**.
 
-Live version  
+Live dashboard  
 https://cbilinski101.github.io/belly-button-challenge/
 
 Repository  
@@ -80,23 +75,12 @@ https://github.com/cbilinski101/belly-button-challenge
 
 ---
 
-## Tools I Work With
+## Tools & Technologies
 
-Programming  
 Python  
 JavaScript  
-
-Visualization  
 Plotly  
 Leaflet  
-Interactive dashboards  
-
-Data  
-Data analysis  
-Data storytelling  
-Dashboard design  
-
-Web  
 HTML  
 CSS  
 GitHub Pages  
@@ -105,16 +89,16 @@ GitHub Pages
 
 ## Professional Background
 
-I currently work as a **Live Services Agent at ServiceTitan**, helping customers solve problems, schedule services, and improve their experience.
+I currently work as a **Live Services Agent at ServiceTitan**, supporting customers, resolving issues, and ensuring a smooth service experience.
 
-Before transitioning into analytics, I developed strong skills in:
+My background in customer support has strengthened my skills in:
 
-Customer success  
+Customer communication  
 Problem solving  
-Communication  
+Process improvement  
 Data reporting  
 
-I enjoy combining **customer insight with data analysis** to make systems work better for both businesses and the people using them.
+I enjoy combining **technical analysis with real-world problem solving** to help teams make better decisions.
 
 ---
 
@@ -123,12 +107,6 @@ I enjoy combining **customer insight with data analysis** to make systems work b
 You can view or download my resume here:
 
 https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbilinski101&show_icons=true)
 
 ---
 
@@ -145,7 +123,4 @@ cbilinski101@gmail.com
 
 ---
 
-Thanks for visiting.
-
-If you made it this far, congratulations —  
-you now know more about **belly-button bacteria dashboards** than most people on Earth.
+Thanks for stopping by.
