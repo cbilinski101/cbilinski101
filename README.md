@@ -1,137 +1,148 @@
-# 👋 Hi, I'm Christine Bilinski
+# Hi, I'm Christine Bilinski
 
-**Helping teams turn messy data into clear decisions.**
+I help turn messy data into clear decisions.
 
-📊 Data Analytics Graduate  
-🤝 Customer Success Professional  
-💡 I turn messy data into clear stories people can understand.
+Data Analytics Graduate  
+Customer Success Professional  
 
-Welcome to my GitHub!
+Welcome to my GitHub.
 
-Think of this page like a **mini museum of projects** where I practice turning data into dashboards, maps, and insights.
+Think of this page like a **small museum of projects**.  
+Each one is something I built while learning how to turn raw data into dashboards, maps, and useful insights.
 
-No coding knowledge needed — just click and explore.
+No coding knowledge required — just click around and explore.
 
 ---
 
-# 🚀 My Projects
+## Projects
 
-## 🌎 Earthquake Visualization Map
+<table>
+<tr>
+
+<td width="33%">
+
+### Earthquake Map
 
 <a href="https://github.com/cbilinski101/leaflet-challenge">
-<img src="images/earthquake_2.png" width="700">
+<img src="images/earthquake_2.png">
 </a>
 
-This project shows **earthquakes around the world** on an interactive map.
+Interactive map showing earthquakes around the world.
 
-Built using **Leaflet.js**.
+Built with **Leaflet.js**.
 
-👉 **Live demo**  
+Live demo  
 https://cbilinski101.github.io/leaflet-challenge/
 
----
+</td>
 
-## 📊 Interactive Data Dashboard
+<td width="33%">
+
+### Data Dashboard
 
 <a href="https://github.com/cbilinski101/Project-3">
-<img src="images/project3_dashboard.png" width="700">
+<img src="images/project3_dashboard.png">
 </a>
 
-A dashboard that helps explore **patterns and trends in data**.
+Interactive dashboard exploring patterns and trends in data.
 
-Built using **JavaScript and data visualization tools**.
-
-👉 **Live dashboard**  
+Live version  
 https://cbilinski101.github.io/Project-3/
 
----
+</td>
 
-## 🧫 Belly Button Biodiversity Dashboard
+<td width="33%">
+
+### Biodiversity Dashboard
 
 <a href="https://github.com/cbilinski101/belly-button-challenge">
-<img src="images/bbc_bubble_chart.png" width="700">
+<img src="images/bbc_bubble_chart.png">
 </a>
 
-Yes… it really is about belly buttons.
+Yes… this one really is about belly buttons.
 
-Scientists studied bacteria found in belly buttons and I built a **dashboard to explore the results**.
+A visualization of bacterial biodiversity using **Plotly.js**.
 
-Built with **Plotly.js**.
-
-👉 **Live dashboard**  
+Live version  
 https://cbilinski101.github.io/belly-button-challenge/
 
----
+</td>
 
-# 🧰 Tools & Skills
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Visualization
-![Plotly](https://img.shields.io/badge/Plotly-Dashboards-blue?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/Leaflet-Interactive%20Maps-green?style=for-the-badge)
-
-### Data Skills
-
-- Data Analysis  
-- Data Storytelling  
-- Dashboard Design  
-- Data Visualization  
-
-### Web
-
-- HTML  
-- CSS  
-- GitHub Pages  
+</tr>
+</table>
 
 ---
 
-# 💼 Professional Background
+## Tools I Work With
+
+**Programming**
+
+Python  
+JavaScript  
+
+**Visualization**
+
+Plotly  
+Leaflet  
+Interactive dashboards  
+
+**Data**
+
+Data analysis  
+Data storytelling  
+Dashboard design  
+
+**Web**
+
+HTML  
+CSS  
+GitHub Pages  
+
+---
+
+## Professional Background
 
 I currently work as a **Live Services Agent at ServiceTitan**, helping customers solve problems, schedule services, and improve their experience.
 
-Before moving into analytics, I built strong skills in:
+Before transitioning into analytics, I developed strong skills in:
 
-✔ Customer Success  
-✔ Problem Solving  
-✔ Communication  
-✔ Data Reporting  
+Customer success  
+Problem solving  
+Communication  
+Data reporting  
 
-I enjoy combining **customer insight with data analysis** to make systems work better for both businesses and people.
+I enjoy combining **customer insight with data analysis** to make systems work better for both businesses and the people using them.
 
 ---
 
-# 📄 Resume
+## Resume
 
 You can view or download my resume here:
 
-📄 **Resume**  
 https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Activity
 
-![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbilinski101&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbilinski101&show_icons=true)
 
 ---
 
-# 🔗 Connect With Me
+## Connect With Me
 
-💼 **LinkedIn**  
+LinkedIn  
 https://linkedin.com/in/christine-b-19367b31b
 
-💻 **GitHub**  
-[https://github.com/cbilinski101](https://cbilinski101.github.io/)
+GitHub  
+https://github.com/cbilinski101
 
-📧 **Email**  
-[cbilinski101@gmail.com](mailto:cbilinski101@gmail.com)
+Email  
+cbilinski101@gmail.com
 
 ---
 
-⭐ Thanks for visiting!
+Thanks for visiting.
 
 If you made it this far, congratulations —  
-you officially know more about **belly-button bacteria dashboards** than most people on Earth.
+you now know more about **belly-button bacteria dashboards** than most people on Earth.
