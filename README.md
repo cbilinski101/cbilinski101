@@ -102,14 +102,6 @@ I enjoy combining **technical analysis with real-world problem solving** to help
 
 ---
 
-## Resume
-
-You can view or download my resume here:
-
-https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf
-
----
-
 ## Connect With Me
 
 LinkedIn  
