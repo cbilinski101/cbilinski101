@@ -1,6 +1,6 @@
 # Hi, I'm Christine Bilinski
 
-I’m a data analytics graduate with a background in customer success and problem solving.  
+I’m a data analytics graduate with a background in customer support and problem solving.  
 I enjoy working with data to uncover patterns, build dashboards, and turn complex information into insights people can actually use.
 
 Below are a few projects where I explored data visualization, mapping, and interactive dashboards.
