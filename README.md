@@ -9,12 +9,6 @@ Below are a few projects where I explored data visualization, mapping, and inter
 
 ## Projects
 
-### Volleyball Scorekeeping Helper (in development)
-
-I’m building a courtside helper for Ontario U14 and U15 volleyball scorekeepers. The working test app guides lineups, scoring, and substitutions and previews an OVA style score sheet. It’s still in development, so entries should be checked against the official paper sheet and referee.
-
-[Try the live test app](https://volleyball-helper-u14-u15-test.vercel.app/)
-
 <table>
 <tr>
 
@@ -78,6 +72,14 @@ https://github.com/cbilinski101/belly-button-challenge
 
 </tr>
 </table>
+
+---
+
+### Volleyball Scorekeeping Helper (in development)
+
+I’m building a courtside helper for Ontario U14 and U15 volleyball scorekeepers. The working test app guides lineups, scoring, and substitutions and previews an OVA style score sheet. It’s still in development, so entries should be checked against the official paper sheet and referee.
+
+[Try the live test app](https://volleyball-helper-u14-u15-test.vercel.app/)
 
 ---
 
