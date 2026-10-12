@@ -16,7 +16,7 @@ I completed the University of Toronto Data Analytics Bootcamp. The projects belo
 
 ### Customer Support Dashboard
 
-A learning project using sample support-ticket data, SQL queries and charts to explore ticket volume, status, issue categories, response times and customer satisfaction.
+A portfolio project using sample support-ticket data, SQL queries and charts to explore ticket volume, status, issue categories, response times and customer satisfaction.
 
 [View project and charts](https://github.com/cbilinski101/customer-support-dashboard) · [SQL queries](https://github.com/cbilinski101/customer-support-dashboard/blob/main/support_dashboard.sql)
 
@@ -32,13 +32,13 @@ Created a relational database from CSV files, defined table relationships and us
 
 [View project](https://github.com/cbilinski101/sql_challenge)
 
-### Volleyball Scorekeeping Helper — In Development
+### Volleyball Scorekeeping Helper
 
-A courtside helper for Ontario U14 and U15 volleyball scorekeepers. The test app guides lineups, scoring and substitutions, and previews an OVA-style score sheet. I use feedback from practice and real games to identify issues and improve the workflow.
+A courtside helper for Ontario U14 and U15 volleyball scorekeepers. The app guides lineups, scoring and substitutions, and previews an OVA-style score sheet. I use feedback from practice and real games to identify issues and improve the workflow.
 
-Entries should be checked against the official paper sheet and referee while the app is in development.
+A personal project focused on rules, validation and practical workflow design. The official paper sheet and referee remain the reference for match decisions.
 
-[Try the live test app](https://volleyball-helper-u14-u15-test.vercel.app/)
+[Explore the app](https://volleyball-helper-u14-u15-test.vercel.app/)
 
 ### Energy Data Dashboard
 
