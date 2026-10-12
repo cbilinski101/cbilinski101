@@ -8,7 +8,7 @@ At Haldimand-Norfolk REACH, I recorded survey results and created annual charts 
 
 I completed the University of Toronto Data Analytics Bootcamp. The projects below show my training and continued learning in spreadsheets, SQL, Python and data visualization.
 
-[Portfolio website](https://cbilinski101.github.io/) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b)
+[Portfolio website](https://cbilinski101.github.io/) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Resume (PDF)](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf)
 
 ---
 
