@@ -1,126 +1,83 @@
 # Hi, I'm Christine Bilinski
 
-I’m a data analytics graduate with a background in customer support and problem solving.  
-I enjoy working with data to uncover patterns, build dashboards, and turn complex information into insights people can actually use.
+**Customer Operations | Process Improvement | Data Reporting**
 
-Below are a few projects where I explored data visualization, mapping, and interactive dashboards.
+I work in customer support and enjoy finding simpler ways to get things done. My background includes customer service, administration, bookkeeping and survey reporting.
 
----
+At Haldimand-Norfolk REACH, I recorded survey results and created annual charts to summarize responses. I now work as a Live Services Agent at ServiceTitan, coordinating scheduling and service support.
 
-## Projects
+I completed the University of Toronto Data Analytics Bootcamp. The projects below show my training and continued learning in spreadsheets, SQL, Python and data visualization.
 
-<table>
-<tr>
-
-<td>
-
-### Earthquake Visualization Map
-
-<a href="https://cbilinski101.github.io/leaflet-challenge/">
-<img src="images/earthquake_2.png">
-</a>
-
-An interactive map that visualizes earthquakes around the world.
-
-Built with **Leaflet.js** to display earthquake magnitude, location, and patterns in global seismic activity.
-
-Live demo  
-https://cbilinski101.github.io/leaflet-challenge/
-
-Repository  
-https://github.com/cbilinski101/leaflet-challenge
-
-</td>
-
-<td>
-
-### Interactive Data Dashboard
-
-<a href="https://cbilinski101.github.io/Project-3/">
-<img src="images/project3_dashboard.png">
-</a>
-
-A dashboard designed to explore patterns and trends through interactive charts and visualizations.
-
-Live dashboard  
-https://cbilinski101.github.io/Project-3/
-
-Repository  
-https://github.com/cbilinski101/Project-3
-
-</td>
-
-<td>
-
-### Biodiversity Dashboard
-
-<a href="https://cbilinski101.github.io/belly-button-challenge/">
-<img src="images/bbc_bubble_chart.png">
-</a>
-
-A visualization of bacterial biodiversity found in belly buttons.
-
-The dashboard allows users to explore the dataset interactively using **Plotly.js**.
-
-Live dashboard  
-https://cbilinski101.github.io/belly-button-challenge/
-
-Repository  
-https://github.com/cbilinski101/belly-button-challenge
-
-</td>
-
-</tr>
-</table>
+[Portfolio website](https://cbilinski101.github.io/) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b)
 
 ---
 
-### Volleyball Scorekeeping Helper (in development)
+## Featured Projects
 
-I’m building a courtside helper for Ontario U14 and U15 volleyball scorekeepers. The working test app guides lineups, scoring, and substitutions and previews an OVA style score sheet. It’s still in development, so entries should be checked against the official paper sheet and referee.
+### Customer Support Dashboard
+
+A learning project using sample support-ticket data, SQL queries and charts to explore ticket volume, status, issue categories, response times and customer satisfaction.
+
+[View project and charts](https://github.com/cbilinski101/customer-support-dashboard) · [SQL queries](https://github.com/cbilinski101/customer-support-dashboard/blob/main/support_dashboard.sql)
+
+### Excel Crowdfunding Analysis
+
+Spreadsheet analysis of campaign outcomes, categories and monthly trends, with pivot tables, charts and a discussion of dataset limitations.
+
+[View project](https://github.com/cbilinski101/excel-challenge)
+
+### SQL Data Modeling and Analysis — Bootcamp Project
+
+Created a relational database from CSV files, defined table relationships and used SQL to answer questions about employee and department data.
+
+[View project](https://github.com/cbilinski101/sql_challenge)
+
+### Volleyball Scorekeeping Helper — In Development
+
+A courtside helper for Ontario U14 and U15 volleyball scorekeepers. The test app guides lineups, scoring and substitutions, and previews an OVA-style score sheet. I use feedback from practice and real games to identify issues and improve the workflow.
+
+Entries should be checked against the official paper sheet and referee while the app is in development.
 
 [Try the live test app](https://volleyball-helper-u14-u15-test.vercel.app/)
 
+### Energy Data Dashboard
+
+Interactive visualizations exploring global energy consumption and renewable electricity trends.
+
+[![Energy dashboard preview](images/project3_dashboard.png)](https://cbilinski101.github.io/Project-3/)
+
+[Live dashboard](https://cbilinski101.github.io/Project-3/) · [Repository](https://github.com/cbilinski101/Project-3)
+
+## More Visualization Projects
+
+### Earthquake Visualization Map
+
+An interactive Leaflet map showing earthquake locations and magnitudes.
+
+[![Earthquake map preview](images/earthquake_2.png)](https://cbilinski101.github.io/leaflet-challenge/)
+
+[Live demo](https://cbilinski101.github.io/leaflet-challenge/) · [Repository](https://github.com/cbilinski101/leaflet-challenge)
+
+### Biodiversity Dashboard
+
+An interactive Plotly dashboard for exploring belly-button bacterial samples.
+
+[![Biodiversity dashboard preview](images/bbc_bubble_chart.png)](https://cbilinski101.github.io/belly-button-challenge/)
+
+[Live dashboard](https://cbilinski101.github.io/belly-button-challenge/) · [Repository](https://github.com/cbilinski101/belly-button-challenge)
+
 ---
 
-## Tools & Technologies
+## Skills & Tools
 
-Python  
-JavaScript  
-Plotly  
-Leaflet  
-HTML  
-CSS  
-GitHub Pages  
+**Work experience:** Customer service, scheduling, administration, survey reporting and annual charts.
 
----
+**Training and projects:** Excel, Google Sheets, SQL, Python, dashboards and data visualization.
 
-## Professional Background
+**Other project tools:** JavaScript, Plotly, Leaflet, HTML, CSS and GitHub Pages.
 
-I currently work as a **Live Services Agent at ServiceTitan**, supporting customers, resolving issues, and ensuring a smooth service experience.
-
-My background in customer support has strengthened my skills in:
-
-Customer communication  
-Problem solving  
-Process improvement  
-Data reporting  
-
-I enjoy combining **technical analysis with real-world problem solving** to help teams make better decisions.
-
----
+I’m interested in roles that combine customer operations, reporting and practical problem-solving while giving me room to develop my analytics skills.
 
 ## Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/christine-b-19367b31b  
-
-GitHub  
-https://github.com/cbilinski101  
-
-Email  
-cbilinski101@gmail.com  
-
----
-
-Thanks for stopping by.
+[LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Portfolio](https://cbilinski101.github.io/) · [GitHub](https://github.com/cbilinski101) · [Email](mailto:cbilinski101@gmail.com)
