@@ -1,84 +1,64 @@
 # Hi, I'm Christine Bilinski
 
-**Customer Operations | Process Improvement | Data Reporting**
+**Practical problem-solving | Useful tools | Clear information**
 
-I work in customer support and enjoy finding simpler ways to get things done. My background includes customer service, administration, bookkeeping and survey reporting.
+I notice the steps that make a task harder than it needs to be, then work on ways to make it simpler. I enjoy organizing information, reducing repeated work, and building tools around the person using them.
 
-At Haldimand-Norfolk REACH, I recorded survey results and created annual charts to summarize responses. I now work as a Live Services Agent at ServiceTitan, coordinating scheduling and service support.
+My background in customer service, administration, bookkeeping and reporting helps me understand everyday work problems. My personal projects give me a way to turn that experience into something practical: identify a need, build a solution, test it, and improve it.
 
-I completed the University of Toronto Data Analytics Bootcamp. The projects below show my training and continued learning in spreadsheets, SQL, Python and data visualization.
-
-[Portfolio website](https://cbilinski101.github.io/) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Resume (PDF)](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf)
+[Explore my portfolio](https://cbilinski101.github.io/) · [Discuss a small project](mailto:cbilinski101@gmail.com)
 
 ---
 
-## Featured Projects
+## Personal projects & practical solutions
 
-### Volleyball Scorekeeping Helper — Personal Project
+### Volleyball Scorekeeping Helper — Featured personal project
 
-I’m continuing to use my newly developed technical skills to build a scorekeeping app for my child’s volleyball games. This hobby project combines learning, problem-solving and testing during real games.
+**The need:** Learning to keep score while following a live volleyball game meant managing lineups, rotations, substitutions and the score sheet at the same time.
 
-The app guides lineups, scoring and substitutions, and previews an OVA-style score sheet. The official paper sheet and referee remain the reference for match decisions.
+**My response:** I started a personal project to bring those tasks into one guided, phone-friendly app. I shape the requirements around courtside use and use testing and feedback to decide what needs to improve.
 
-[Explore the app](https://volleyball-helper-u14-u15-test.vercel.app/)
+**What it shows:** Initiative, attention to the user, practical problem-solving, and persistence through repeated testing and revisions.
 
-### Customer Support Dashboard
+**Current stage:** Under active development and testing. It includes regular and practice flows, team setup, scoring, saved game history and an OVA-style score-sheet preview. The official paper record and event officials remain the reference; some device, printing and exceptional-rule paths still need verification.
 
-A portfolio project using sample support-ticket data, SQL queries and charts to explore ticket volume, status, issue categories, response times and customer satisfaction.
+[Try the testing app](https://volleyball-helper-u14-u15-test.vercel.app/) · [Read project notes and testing limits](https://github.com/cbilinski101/volleyball-helper-u14-u15-test)
 
-[View project and charts](https://github.com/cbilinski101/customer-support-dashboard) · [SQL queries](https://github.com/cbilinski101/customer-support-dashboard/blob/main/support_dashboard.sql)
+### Fraud Risk Intelligence Dashboard
 
-### Excel Crowdfunding Analysis
+An interactive demonstration that lets a visitor enter fictional transaction details, generate a model prediction, and explore prediction history and charts. It shows how analytical work can become a tool someone can try and understand.
 
-Spreadsheet analysis of campaign outcomes, categories and monthly trends, with pivot tables, charts and a discussion of dataset limitations.
+This is a portfolio demonstration, not a production fraud-detection service. Predictions do not establish real-world accuracy. Demo history is shared across visitors and can reset when the service restarts.
 
-[View project](https://github.com/cbilinski101/excel-challenge)
+[Open the dashboard](https://fraud-risk-dashboard.onrender.com/) · [View the project](https://github.com/cbilinski101/fraud-api)
 
-### SQL Data Modeling and Analysis — Bootcamp Project
+## Small project enquiries
 
-Created a relational database from CSV files, defined table relationships and used SQL to answer questions about employee and department data.
+I'm interested in clearly scoped projects that make everyday work easier: improving a spreadsheet or tracker, organizing information, simplifying repeated steps, or exploring a small practical tool.
 
-[View project](https://github.com/cbilinski101/sql_challenge)
+I start by understanding the problem, agreeing on a manageable first piece, and being clear about what I can deliver. The projects above are portfolio work, rather than paid client commissions.
 
-
-### Energy Data Dashboard
-
-Interactive visualizations exploring global energy consumption and renewable electricity trends.
-
-[![Energy dashboard preview](images/project3_dashboard.png)](https://cbilinski101.github.io/Project-3/)
-
-[Live dashboard](https://cbilinski101.github.io/Project-3/) · [Repository](https://github.com/cbilinski101/Project-3)
-
-## More Visualization Projects
-
-### Earthquake Visualization Map
-
-An interactive Leaflet map showing earthquake locations and magnitudes.
-
-[![Earthquake map preview](images/earthquake_2.png)](https://cbilinski101.github.io/leaflet-challenge/)
-
-[Live demo](https://cbilinski101.github.io/leaflet-challenge/) · [Repository](https://github.com/cbilinski101/leaflet-challenge)
-
-### Biodiversity Dashboard
-
-An interactive Plotly dashboard for exploring belly-button bacterial samples.
-
-[![Biodiversity dashboard preview](images/bbc_bubble_chart.png)](https://cbilinski101.github.io/belly-button-challenge/)
-
-[Live dashboard](https://cbilinski101.github.io/belly-button-challenge/) · [Repository](https://github.com/cbilinski101/belly-button-challenge)
+[Tell me what you're trying to make easier](mailto:cbilinski101@gmail.com)
 
 ---
 
-## Skills & Tools
+## Education & school projects
 
-**Work experience:** Customer service, scheduling, administration, survey reporting and annual charts.
+I completed the University of Toronto Data Analytics Bootcamp. These school projects show my foundation in Excel, SQL, Python, reporting and data visualization.
 
-**Training and projects:** Excel, Google Sheets, SQL, Python, dashboards and data visualization.
+| Project | Focus | Explore |
+| --- | --- | --- |
+| Customer Support Dashboard | Sample support-ticket data, SQL queries and reporting charts | [Project and charts](https://github.com/cbilinski101/customer-support-dashboard) |
+| Excel Crowdfunding Analysis | Pivot tables, charts, campaign outcomes and dataset limitations | [Project](https://github.com/cbilinski101/excel-challenge) |
+| SQL Data Modeling and Analysis | Relational tables and queries using employee data | [Project](https://github.com/cbilinski101/sql_challenge) |
+| Energy Data Dashboard | Global energy consumption and renewable electricity trends | [Live dashboard](https://cbilinski101.github.io/Project-3/) |
+| Earthquake Visualization Map | Interactive geographic visualization with Leaflet | [Live map](https://cbilinski101.github.io/leaflet-challenge/) |
+| Biodiversity Dashboard | Interactive charts exploring bacterial samples | [Live dashboard](https://cbilinski101.github.io/belly-button-challenge/) |
 
-**Other project tools:** JavaScript, Plotly, Leaflet, HTML, CSS and GitHub Pages.
+## Employment & professional background
 
-I’m interested in roles that combine customer operations, reporting and practical problem-solving while giving me room to develop my analytics skills.
+My experience includes customer service, scheduling, administration, bookkeeping and survey reporting. At Haldimand-Norfolk REACH, I recorded survey results and created annual charts. I now work as a Live Services Agent at ServiceTitan.
 
-## Connect With Me
+I'm also open to remote roles involving customer operations, reporting and process improvement, with room to develop my technical skills.
 
-[LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Portfolio](https://cbilinski101.github.io/) · [GitHub](https://github.com/cbilinski101) · [Email](mailto:cbilinski101@gmail.com)
+[Résumé (PDF)](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Email](mailto:cbilinski101@gmail.com)
