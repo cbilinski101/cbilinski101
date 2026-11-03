@@ -30,7 +30,9 @@ The case study explains the requirements and testing approach using fictional ex
 
 **Current stage:** Under active development and testing. It includes regular and practice flows, team setup, scoring, saved game history and an OVA-style score-sheet preview. The official paper record and event officials remain the reference; some device, printing and exceptional-rule paths still need verification.
 
-[Try the testing app](https://volleyball-helper-u14-u15-test.vercel.app/) · [Read project notes and testing limits](https://cbilinski101.github.io/#volleyball-notes)
+Choose **Start an official game** for guided match setup, or **Quick Start — Practice game** to try scoring with sample teams.
+
+[Try it — choose official or practice](https://volleyball-helper-u14-u15-test.vercel.app/) · [Read project notes and testing limits](https://cbilinski101.github.io/#volleyball-notes)
 
 ### Fraud Risk Intelligence Dashboard
 
