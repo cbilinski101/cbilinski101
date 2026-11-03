@@ -12,13 +12,35 @@ My background in customer service, administration, bookkeeping and reporting hel
 
 ## Personal projects & practical solutions
 
-### Sport Volunteer Helper — Featured personal project
+### Sport Volunteer Helper
+*Making team volunteering fairer, clearer and easier to join.*
 
-A parent volunteer coordination app developed with AI assistance. I defined check-in, availability, role assignment and history workflows, tested changing availability and used feedback to refine the experience.
+I started this app to help share volunteer duties fairly, without leaving one person responsible for chasing volunteers or deciding whose turn it should be.
 
-The case study explains the requirements and testing approach using fictional examples. The working team app and its family records are separate.
+Families choose when they’re available and whether they can help with scorekeeping, linesperson duties, or both. No adult names are needed—families simply check in using their child’s first name and jersey number.
 
-[Read the case study](https://cbilinski101.github.io/sport-volunteer-helper.html)
+The app uses availability and previous volunteering to organize turns. Schedules and volunteering history are accessible to everyone on the team, making it easier to see how responsibilities are shared throughout the season.
+
+My goal is to encourage participation by letting parents offer the help they’re comfortable giving, without feeling pressured to do everything.
+
+I’m developing the app with AI assistance and refining it through testing and parent feedback.
+
+**A look inside the app**  
+*These screenshots use fictional families.*
+
+**Choose how to help:** Volunteer for scorekeeping, linesperson duties, or both.
+
+![Choose how to help — fictional families](https://cbilinski101.github.io/images/sport-volunteer/SVH_01_Choose_How_To_Help.jpg)
+
+**See upcoming turns:** A shared schedule shows assignments and accepted roles.
+
+![See upcoming turns — fictional families](https://cbilinski101.github.io/images/sport-volunteer/SVH_02_Volunteer_Schedule.jpg)
+
+**Review previous contributions:** Families can view volunteering history throughout the season.
+
+![Review previous contributions — fictional families](https://cbilinski101.github.io/images/sport-volunteer/SVH_03_Shared_Volunteering_History.jpg)
+
+[See how it works](https://cbilinski101.github.io/sport-volunteer-helper.html)
 
 ### Volleyball Scorekeeping Helper — Featured personal project
 
