@@ -73,4 +73,4 @@ My experience includes customer service, scheduling, administration, bookkeeping
 
 I'm interested in remote customer support, technical support and operations roles where I can combine customer experience with practical problem-solving and continue developing my product knowledge.
 
-[Résumé (PDF)](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Email](mailto:cbilinski101@gmail.com)
+[View / print résumé](https://cbilinski101.github.io/resume.html) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Email](mailto:cbilinski101@gmail.com)
