@@ -12,11 +12,19 @@ My background in customer service, administration, bookkeeping and reporting hel
 
 ## Personal projects & practical solutions
 
+### Sport Volunteer Helper — Featured personal project
+
+A parent volunteer coordination app developed with AI assistance. I defined check-in, availability, role assignment and history workflows, tested changing availability and used feedback to refine the experience.
+
+The case study explains the requirements and testing approach using fictional examples. The working team app and its family records are separate.
+
+[Read the case study](https://cbilinski101.github.io/sport-volunteer-helper.html)
+
 ### Volleyball Scorekeeping Helper — Featured personal project
 
 **The need:** Learning to keep score while following a live volleyball game meant managing lineups, rotations, substitutions and the score sheet at the same time.
 
-**My response:** I started a personal project to bring those tasks into one guided, phone-friendly app. I shape the requirements around courtside use and use testing and feedback to decide what needs to improve.
+**My response:** I developed a personal project with AI assistance to bring those tasks into one guided, phone-friendly app. I shape the requirements around courtside use and use testing and feedback to decide what needs to improve.
 
 **What it shows:** Initiative, attention to the user, practical problem-solving, and persistence through repeated testing and revisions.
 
@@ -55,10 +63,14 @@ I completed the University of Toronto Data Analytics Bootcamp. These school proj
 | Earthquake Visualization Map | Interactive geographic visualization with Leaflet | [Live map](https://cbilinski101.github.io/leaflet-challenge/) |
 | Biodiversity Dashboard | Interactive charts exploring bacterial samples | [Live dashboard](https://cbilinski101.github.io/belly-button-challenge/) |
 
+## Spreadsheet experience
+
+I adapt spreadsheets between Excel and Google Sheets, adjusting formulas that are not directly interchangeable and checking results after conversion.
+
 ## Employment & professional background
 
 My experience includes customer service, scheduling, administration, bookkeeping and survey reporting. At Haldimand-Norfolk REACH, I recorded survey results and created annual charts. I now work as a Live Services Agent at ServiceTitan.
 
-I'm also open to remote roles involving customer operations, reporting and process improvement, with room to develop my technical skills.
+I'm interested in remote customer support, technical support and operations roles where I can combine customer experience with practical problem-solving and continue developing my product knowledge.
 
 [Résumé (PDF)](https://cbilinski101.github.io/Christine_Bilinski_Resume.pdf) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Email](mailto:cbilinski101@gmail.com)
