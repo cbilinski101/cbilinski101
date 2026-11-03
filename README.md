@@ -42,19 +42,18 @@ I’m developing the app with AI assistance and refining it through testing and 
 
 [See how it works](https://cbilinski101.github.io/sport-volunteer-helper.html)
 
-### Volleyball Scorekeeping Helper — Featured personal project
+### Volleyball Helper
+*Helping parents make sense of volleyball scorekeeping.*
 
-**The need:** Learning to keep score while following a live volleyball game meant managing lineups, rotations, substitutions and the score sheet at the same time.
+I started this project after discovering how much there is to learn when keeping score for a volleyball team. For a parent with no experience, following the score, serving order, rotations and substitutions can quickly become overwhelming.
 
-**My response:** I developed a personal project with AI assistance to bring those tasks into one guided, phone-friendly app. I shape the requirements around courtside use and use testing and feedback to decide what needs to improve.
+Volleyball Helper brings those tasks together in a guided app. You can set up a match or jump into a practice game with sample teams to explore how it works.
 
-**What it shows:** Initiative, attention to the user, practical problem-solving, and persistence through repeated testing and revisions.
+This is an ongoing hobby project, developed with AI assistance and shaped by my experience as a parent learning to score. It currently focuses on U14/U15 indoor volleyball—a small part of a much larger sport. It is usable as a companion for parents, but it is still experimental and does not replace the official score sheet.
 
-**Current stage:** Under active development and testing. It includes regular and practice flows, team setup, scoring, saved game history and an OVA-style score-sheet preview. The official paper record and event officials remain the reference; some device, printing and exceptional-rule paths still need verification.
+I’d love to expand it to other age groups and game formats over time. Volleyball has many rules and variations, so that will take continued learning, testing and development. For now, I’m building something useful, trying it out and improving it along the way.
 
-Choose **Start an official game** for guided match setup, or **Quick Start — Practice game** to try scoring with sample teams.
-
-[Try it — choose official or practice](https://volleyball-helper-u14-u15-test.vercel.app/) · [Read project notes and testing limits](https://cbilinski101.github.io/#volleyball-notes)
+[Try the app](https://volleyball-helper-u14-u15-test.vercel.app/) · [About this project](https://cbilinski101.github.io/volleyball-helper.html)
 
 ### Fraud Risk Intelligence Dashboard
 
