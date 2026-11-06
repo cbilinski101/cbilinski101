@@ -25,20 +25,20 @@ My goal is to encourage participation by letting parents offer the help they’r
 
 I’m developing the app with AI assistance and refining it through testing and parent feedback.
 
-**A look inside the app**  
-*These screenshots use fictional families.*
+**[Try the practice demo](https://sport-volunteer-helper-demo.vercel.app/)**
 
-**Choose how to help:** Volunteer for scorekeeping, linesperson duties, or both.
+Choose Avery #71, check in as a scorekeeping volunteer, and accept the Game 1 turn. The demo uses fictional families and keeps your progress in your browser.
 
-![Choose how to help — fictional families](https://cbilinski101.github.io/images/sport-volunteer/SVH_01_Choose_How_To_Help.jpg)
+**Screenshots from the practice demo**
 
-**See upcoming turns:** A shared schedule shows assignments and accepted roles.
+**Choose how to help**  
+![Check-in screen with Scorekeeping only selected for Avery](images/svh-demo-check-in.jpg)
 
-![See upcoming turns — fictional families](https://cbilinski101.github.io/images/sport-volunteer/SVH_02_Volunteer_Schedule.jpg)
+**See the live schedule**  
+![Game 1 with both volunteer roles accepted](images/svh-demo-schedule.jpg)
 
-**Review previous contributions:** Families can view volunteering history throughout the season.
-
-![Review previous contributions — fictional families](https://cbilinski101.github.io/images/sport-volunteer/SVH_03_Shared_Volunteering_History.jpg)
+**Review season totals**  
+![All Family History showing sample season totals](images/svh-demo-history.jpg)
 
 [See how it works](https://cbilinski101.github.io/sport-volunteer-helper.html)
 
