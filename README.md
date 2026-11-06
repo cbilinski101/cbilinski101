@@ -1,99 +1,59 @@
 # Hi, I'm Christine Bilinski
 
-**Practical problem-solving | Useful tools | Clear information**
+**Customer support · Operations · Independent app projects**
 
-I notice the steps that make a task harder than it needs to be, then work on ways to make it simpler. I enjoy organizing information, reducing repeated work, and building tools around the person using them.
+I'm a Live Services Agent at ServiceTitan with experience in customer service, administration, bookkeeping and reporting. On the side, I build and test tools for problems I run into, starting with youth volleyball.
 
-My background in customer service, administration, bookkeeping and reporting helps me understand everyday work problems. My personal projects give me a way to turn that experience into something practical: identify a need, build a solution, test it, and improve it.
+[Portfolio](https://cbilinski101.github.io/) · [Résumé](https://cbilinski101.github.io/resume.html) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Email](mailto:cbilinski101@gmail.com)
 
-[Explore my portfolio](https://cbilinski101.github.io/) · [Discuss a small project](mailto:cbilinski101@gmail.com)
-
----
-
-## Personal projects & practical solutions
+## Featured projects
 
 ### Sport Volunteer Helper
-*Making team volunteering fairer, clearer and easier to join.*
 
-I started this app to help share volunteer duties fairly, without leaving one person responsible for chasing volunteers or deciding whose turn it should be.
+Helps youth teams share scorekeeping and linesperson duties. Families check in, choose how they can help, and see how turns are shared across the season.
 
-Families choose when they’re available and whether they can help with scorekeeping, linesperson duties, or both. No adult names are needed—families simply check in using their child’s first name and jersey number.
+**[Try the practice demo](https://sport-volunteer-helper-demo.vercel.app/)** · [Project details](https://cbilinski101.github.io/sport-volunteer-helper.html)
 
-The app uses availability and previous volunteering to organize turns. Schedules and volunteering history are accessible to everyone on the team, making it easier to see how responsibilities are shared throughout the season.
+Start as **Avery #71**, check in for scorekeeping, and accept the Game 1 turn. The demo uses fictional families and saves progress in your browser.
 
-My goal is to encourage participation by letting parents offer the help they’re comfortable giving, without feeling pressured to do everything.
+<img src="images/svh-demo-schedule.jpg" alt="Practice schedule showing both Game 1 volunteer roles accepted" width="240">
 
-I’m developing the app with AI assistance and refining it through testing and parent feedback.
+<details>
+<summary>See the check-in and season totals screens</summary>
 
-**[Try the practice demo](https://sport-volunteer-helper-demo.vercel.app/)**
+<img src="images/svh-demo-check-in.jpg" alt="Check-in screen with Scorekeeping only selected for Avery" width="240">
+<img src="images/svh-demo-history.jpg" alt="All Family History showing sample season totals" width="240">
 
-Choose Avery #71, check in as a scorekeeping volunteer, and accept the Game 1 turn. The demo uses fictional families and keeps your progress in your browser.
-
-**Screenshots from the practice demo**
-
-**Choose how to help**  
-![Check-in screen with Scorekeeping only selected for Avery](images/svh-demo-check-in.jpg)
-
-**See the live schedule**  
-![Game 1 with both volunteer roles accepted](images/svh-demo-schedule.jpg)
-
-**Review season totals**  
-![All Family History showing sample season totals](images/svh-demo-history.jpg)
-
-[See how it works](https://cbilinski101.github.io/sport-volunteer-helper.html)
+</details>
 
 ### Volleyball Helper
-*Helping parents make sense of volleyball scorekeeping.*
 
-I started this project after discovering how much there is to learn when keeping score for a volleyball team. For a parent with no experience, following the score, serving order, rotations and substitutions can quickly become overwhelming.
+An experimental U14/U15 indoor volleyball app that helps parents learn to track scores, serving order, rotations and substitutions. Try a practice game with sample teams.
 
-Volleyball Helper brings those tasks together in a guided app. You can set up a match or jump into a practice game with sample teams to explore how it works.
-
-This is an ongoing hobby project, developed with AI assistance and shaped by my experience as a parent learning to score. It currently focuses on U14/U15 indoor volleyball—a small part of a much larger sport. It is usable as a companion for parents, but it is still experimental and does not replace the official score sheet.
-
-I’d love to expand it to other age groups and game formats over time. Volleyball has many rules and variations, so that will take continued learning, testing and development. For now, I’m building something useful, trying it out and improving it along the way.
-
-[Try the app](https://volleyball-helper-u14-u15-test.vercel.app/) · [About this project](https://cbilinski101.github.io/volleyball-helper.html)
+**[Try the app](https://volleyball-helper-u14-u15-test.vercel.app/)** · [Project details](https://cbilinski101.github.io/volleyball-helper.html)
 
 ### Fraud Risk Intelligence Dashboard
 
-An interactive demonstration that lets a visitor enter fictional transaction details, generate a model prediction, and explore prediction history and charts. It shows how analytical work can become a tool someone can try and understand.
+A portfolio demo that lets you enter a fictional transaction and explore a model prediction, history and charts.
 
-This is a portfolio demonstration, not a production fraud-detection service. Predictions do not establish real-world accuracy. Demo history is shared across visitors and can reset when the service restarts.
+**[Open the demo](https://fraud-risk-dashboard.onrender.com/)** · [View the code](https://github.com/cbilinski101/fraud-api)
 
-[Open the dashboard](https://fraud-risk-dashboard.onrender.com/) · [View the project](https://github.com/cbilinski101/fraud-api)
+## Skills & background
 
-## Small project enquiries
+I work with Excel, Google Sheets, SQL and Python. I can adapt formulas between Excel and Sheets and verify that the results match after conversion. I completed the University of Toronto Data Analytics Bootcamp.
 
-I'm interested in clearly scoped projects that make everyday work easier: improving a spreadsheet or tracker, organizing information, simplifying repeated steps, or exploring a small practical tool.
+<details>
+<summary>Explore six bootcamp projects</summary>
 
-I start by understanding the problem, agreeing on a manageable first piece, and being clear about what I can deliver. The projects above are portfolio work, rather than paid client commissions.
+| Project | Focus |
+| --- | --- |
+| [Customer Support Dashboard](https://github.com/cbilinski101/customer-support-dashboard) | Support tickets, SQL and reporting |
+| [Excel Crowdfunding Analysis](https://github.com/cbilinski101/excel-challenge) | Pivot tables, charts and campaign outcomes |
+| [SQL Data Modeling and Analysis](https://github.com/cbilinski101/sql_challenge) | Relational tables and employee data |
+| [Energy Data Dashboard](https://cbilinski101.github.io/Project-3/) | Energy consumption and renewables |
+| [Earthquake Visualization Map](https://cbilinski101.github.io/leaflet-challenge/) | Interactive Leaflet map |
+| [Biodiversity Dashboard](https://cbilinski101.github.io/belly-button-challenge/) | Interactive charts for bacterial samples |
 
-[Tell me what you're trying to make easier](mailto:cbilinski101@gmail.com)
+</details>
 
----
-
-## Education & school projects
-
-I completed the University of Toronto Data Analytics Bootcamp. These school projects show my foundation in Excel, SQL, Python, reporting and data visualization.
-
-| Project | Focus | Explore |
-| --- | --- | --- |
-| Customer Support Dashboard | Sample support-ticket data, SQL queries and reporting charts | [Project and charts](https://github.com/cbilinski101/customer-support-dashboard) |
-| Excel Crowdfunding Analysis | Pivot tables, charts, campaign outcomes and dataset limitations | [Project](https://github.com/cbilinski101/excel-challenge) |
-| SQL Data Modeling and Analysis | Relational tables and queries using employee data | [Project](https://github.com/cbilinski101/sql_challenge) |
-| Energy Data Dashboard | Global energy consumption and renewable electricity trends | [Live dashboard](https://cbilinski101.github.io/Project-3/) |
-| Earthquake Visualization Map | Interactive geographic visualization with Leaflet | [Live map](https://cbilinski101.github.io/leaflet-challenge/) |
-| Biodiversity Dashboard | Interactive charts exploring bacterial samples | [Live dashboard](https://cbilinski101.github.io/belly-button-challenge/) |
-
-## Spreadsheet experience
-
-I adapt spreadsheets between Excel and Google Sheets, adjusting formulas that are not directly interchangeable and checking results after conversion.
-
-## Employment & professional background
-
-My experience includes customer service, scheduling, administration, bookkeeping and survey reporting. At Haldimand-Norfolk REACH, I recorded survey results and created annual charts. I now work as a Live Services Agent at ServiceTitan.
-
-I'm interested in remote customer support, technical support and operations roles where I can combine customer experience with practical problem-solving and continue developing my product knowledge.
-
-[View / print résumé](https://cbilinski101.github.io/resume.html) · [LinkedIn](https://linkedin.com/in/christine-b-19367b31b) · [Email](mailto:cbilinski101@gmail.com)
+I'm open to remote customer support, technical support and operations roles, as well as small projects involving spreadsheets, trackers or everyday workflows. [Get in touch](mailto:cbilinski101@gmail.com).
